@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/VinceBLT/VinceBLT/bg-mountains-colors-img/pexels-simon-berger-1323550-(1).jpg)
+![Cover](https://github.com/VinceBLT/VinceBLT/main/img/cover.jpg)
 
 I am a Fullstack Junior Developer
 
