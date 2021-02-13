@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/VinceBLT/VinceBLT/main/img/cover.jpg)
+![Cover](https://github.com/VinceBLT/VinceBLT/blob/main/img/cover.jpg)
 
 I am a Fullstack Junior Developer
 
