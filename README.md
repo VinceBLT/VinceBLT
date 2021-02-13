@@ -8,4 +8,4 @@ I am a Fullstack Junior Developer
 - 🚀 Technologies i'm using : JavaScript, React.js, Node.js, PHP, Symfony
 - 👯 I’m looking to collaborate on any fun and interesting projects
 - 📫 How to reach me: vincent.bezault@icloud.com
-- ⚡ Fun fact: I was a live sound engineer before starting learning code
+- ⚡ Fun fact: I am a live sound engineer too 
