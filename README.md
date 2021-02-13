@@ -4,9 +4,8 @@
 
 I am a Fullstack Juninor Developer
 
-- 🔭 I’m currently working on my personal website 
+- 🔭 I’m currently working on my personal website : https://vincent-developer.com/
 - 🚀 Technologies i'm using : JavaScript, React.js, Node.js, PHP, Symfony
-- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on any fun and interesting projects
 - 📫 How to reach me: vincent.bezault@icloud.com
 - ⚡ Fun fact: I was a live sound engineer before starting learning code
