@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fullstack Junior Developer
+I am a Front-End Junior Developer
 
 - 🔭 Here is my personal website : https://vincent-developer.com/
 - 🚀 Technologies i'm using : JavaScript, React.js, React Native, Node.js, PHP
