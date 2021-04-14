@@ -2,7 +2,7 @@
 
 Software Engineer specializing in JavaScript technologies.
 
-https://img.shields.io/twitter/follow/VBezault?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/VBezault?style=social)
 
 - 🔭 Here is my personal website : https://vincent-developer.com/
 - 🚀 Technologies i'm using : JavaScript, React.js, React Native, Node.js
