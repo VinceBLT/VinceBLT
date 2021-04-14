@@ -21,7 +21,7 @@ Software Engineer specializing in JavaScript technologies.
 
 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinceBLT&hide=java,html,css&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinceBLT&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceBLT&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceBLT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
