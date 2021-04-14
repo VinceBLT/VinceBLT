@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vincent Bezault !
 
-Software Engineer specializing in JavaScript technologies.
-
 ![GitHub followers](https://img.shields.io/github/followers/VinceBLT?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/VBezault?style=social)
 
 ---
+
+Software Engineer specializing in JavaScript technologies.
 
 - 🔭 Here is my personal website : https://vincent-developer.com/
 - 👯 I’m looking to collaborate on any fun and interesting projects
