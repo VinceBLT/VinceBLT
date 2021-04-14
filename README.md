@@ -1,6 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vincent Bezault !
 
-I am a Front-End Junior Developer
+Software Engineer specializing in JavaScript technologies.
+
+https://img.shields.io/twitter/follow/VBezault?style=social
 
 - 🔭 Here is my personal website : https://vincent-developer.com/
 - 🚀 Technologies i'm using : JavaScript, React.js, React Native, Node.js
