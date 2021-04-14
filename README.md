@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Front-End Junior Developer
 
@@ -8,5 +8,3 @@ I am a Front-End Junior Developer
 - 📫 How to reach me: vincent.bezault@icloud.com
 - ⚡ Fun fact: I am a live sound engineer too 
 
-
-![Cover](https://github.com/VinceBLT/VinceBLT/blob/main/img/cover.jpg)
