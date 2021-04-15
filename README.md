@@ -6,9 +6,9 @@
 
 Software Engineer specializing in JavaScript technologies.
 
-- 🔭 Here is my personal website : https://vincent-developer.com/
+- 🔭 Portfolio : https://vincent-developer.com/
 - 👯 I’m looking to collaborate on any fun and interesting projects
-- 📫 How to reach me: vincent.bezault@icloud.com
+- 📫 Reach me: vincent.bezault@icloud.com
 - ⚡ Fun fact: I am a live sound engineer too 
 
 --- 
