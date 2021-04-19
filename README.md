@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vincent Bezault !
 
 ![GitHub followers](https://img.shields.io/github/followers/VinceBLT?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/VBezault?style=social)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" href="https://www.linkedin.com/in/%F0%9F%AA%90-vincent-bezault-732451205/"/>
 
 ---
 
